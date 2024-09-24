@@ -39,13 +39,14 @@ O sistema "Distribuidora de Jogos" é projetado para facilitar o cadastro, geren
 - Possibilidade de deletar registros de jogos e pessoas cadastradas, com as devidas verificações de segurança para evitar exclusões acidentais.
 
 ## Membros da Equipe e Papel
--**Gessica Teixeira Bomfim** - *Full-Stack Developer* - [GitHub Gessica](https://github.com/linkParaPerfil)
+-**Gessica Teixeira Bomfim** - *Full-Stack Developer* - [GitHub Gessica](https://github.com/gessicatb)
 
 -**Alexssander Fernandes Candido** - *Backend Developer* [GitHub Alexssander](https://github.com/JuBinLuB)
 
--**Gabriel Abreu Miller Godoi** - [Papel a ser definido]
+-**Gabriel Abreu Miller Godoi** - *Full-stack Developer* - [GitHub Gabriel Miller](https://github.com/gabrielgmiller)
 
--**Gabriel Henrique Silva** - [Papel a ser definido]
+-**Gabriel Henrique Silva** - *Backend Developer* - [GitHub Gabriel Henrique](https://github.com/gabrielhs33)
+
 ## Tecnologias
 - **Linguagem de Programação**: Python
 - **Banco de Dados**: PostgreSQL
