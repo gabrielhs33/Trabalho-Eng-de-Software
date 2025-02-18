@@ -95,15 +95,31 @@ O sistema "Distribuidora de Jogos" é projetado para facilitar o cadastro, geren
     - Desenvolver a interface para exibir notificações.
     - Configurar regras e gatilhos para envio de notificações.
 
-# Diagramas
+# Diagramas UML
 - **Diagrama de Classes**:
-  ![Captura de tela 2024-09-22 232956](https://github.com/user-attachments/assets/d20b65b4-4c07-4fa2-ab2b-76e9ec0bc7ac)
+<div align="center">
+   <img src="https://github.com/user-attachments/assets/2af8af97-d4ea-4975-aff8-c383dd149823" alt="Imagem1" width="720"/>
+   <br/>
+   <em>Figura 1: Diagrama de Classes</em>
+</div>
 
-- **Diagrama de Atividades**
-   ![Captura de tela 2024-09-22 233155](https://github.com/user-attachments/assets/7978dd37-db4c-4ef0-86cc-9af2fdb5c423)
+<br/><br/>
 
-   <!-- ![image](https://github.com/user-attachments/assets/fd0cead2-85af-46a7-ad41-f3034765e9de) -->
+- **Diagrama de Atividades**:
+<div align="center">
+   <img src="https://github.com/user-attachments/assets/5544492e-a027-4451-bb4a-d892caa37a56" alt="Imagem2" width="720"/>
+   <br/>
+   <em>Figura 2: Diagrama de Atividades para cadastro de pessoa</em>
+</div>
 
+<br/><br/>
+
+<div align="center">
+   <img src="https://raw.githubusercontent.com/gessicatb/Trabalho-Eng-de-Software/refs/heads/main/diagrama%20de%20atividades/Delete%20Product%20Activity%20Diagram0.png" alt="Imagem3" width="720"/>
+   <br/>
+   <em>Figura 3: Diagrama de Atividades para deletar produto</em>
+</div>
+ 
 # Protótipo de Interface
 Link do protótipo: https://www.figma.com/design/KKrtFos5nfhSKV3wNS561z/LevelUP?node-id=0-1&t=qyWs8kaNPpC4PP9Z-1
 
